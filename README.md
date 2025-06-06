@@ -1,2 +1,2 @@
-# Realtime Weather App
+# Realtime weather App
 A realtime weather application using Html, Css & JavaScript.
